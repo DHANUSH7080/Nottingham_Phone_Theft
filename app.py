@@ -8,6 +8,8 @@ data = pd.read_csv("phone_theft.csv")
 
 # Streamlit app
 st.title("Detailed Phone Theft Map")
+st.write("This map shows locations of phone theft incidents at Nottingham.")
+
 
 # Define Pydeck Layer
 layer = pdk.Layer(
@@ -39,5 +41,6 @@ st.pydeck_chart(pdk.Deck(
     initial_view_state=view_state,
     tooltip=tooltip
 ))
+
 
 
