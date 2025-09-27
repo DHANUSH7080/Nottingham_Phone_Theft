@@ -1,85 +1,85 @@
-lon,lat
--1.27028,53.127306
--1.263109,53.117527
--1.26225,53.12234
--1.268655,53.114748
--1.203413,53.03934
--1.205111,53.04026
--1.220105,53.024313
--1.106672,53.3903
--1.005653,53.331603
--1.137978,53.322538
--1.137978,53.322538
--0.882845,53.233361
--1.107925,53.310164
--1.288133,53.011723
--1.277427,52.928956
--1.218304,52.937463
--1.216307,52.926914
--1.146596,53.049554
--1.118347,52.997389
--1.10079,52.960275
--1.1929,53.165353
--1.205392,53.142568
--1.195606,53.145424
--1.197089,53.146099
--1.195606,53.145424
--1.192543,53.145341
--1.155294,53.136489
--0.800266,53.077679
--0.811246,53.077951
--0.802696,53.062206
--0.792286,53.055592
--1.178924,53.00398
--1.192227,53.016198
--1.189534,52.991252
--1.132225,52.980726
--1.174151,52.979973
--1.226893,52.973136
--1.14623,52.965365
--1.153047,52.972309
--1.160129,52.97111
--1.17512,52.965875
--1.1705,52.964548
--1.188616,52.967891
--1.208058,52.966503
--1.137096,52.962746
--1.137096,52.962746
--1.169095,52.960943
--1.161266,52.965791
--1.165338,52.961195
--1.153465,52.956257
--1.153465,52.956257
--1.150533,52.960776
--1.150533,52.960776
--1.145611,52.958241
--1.148119,52.957453
--1.145725,52.955491
--1.149219,52.955678
--1.149219,52.955678
--1.150671,52.95603
--1.140243,52.960962
--1.135599,52.959382
--1.119435,52.9585
--1.179508,52.957419
--1.156117,52.953857
--1.185957,52.943799
--1.171505,52.912098
--1.151091,53.007579
--1.154231,52.954374
--1.152649,52.953842
--1.147141,52.949344
--1.146626,52.954311
--1.146489,52.952953
--1.146626,52.954311
--1.149438,52.953648
--1.149253,52.953179
--1.146489,52.952953
--1.146626,52.954311
--1.167151,52.93404
--1.198005,52.936052
--0.978336,52.983908
--0.953478,52.951716
--1.034686,52.90296
--1.204631,52.865915
--1.134612,52.859636
+lon,lat,Location,LSOA name
+-1.27028,53.127306,On or near Ridge Close,Ashfield 005C
+-1.263109,53.117527,On or near James William Turner Avenue,Ashfield 005D
+-1.26225,53.12234,On or near High Pavement,Ashfield 005E
+-1.268655,53.114748,On or near Garth Avenue,Ashfield 006B
+-1.203413,53.03934,On or near Titchfield Street,Ashfield 014D
+-1.205111,53.04026,On or near Carlingford Road,Ashfield 014D
+-1.220105,53.024313,On or near Ashurst Grove,Ashfield 016E
+-1.106672,53.3903,On or near A634,Bassetlaw 001A
+-1.005653,53.331603,On or near Park/Open Space,Bassetlaw 003C
+-1.137978,53.322538,On or near Carrion View,Bassetlaw 009D
+-1.137978,53.322538,On or near Carrion View,Bassetlaw 009D
+-0.882845,53.233361,On or near Hillside,Bassetlaw 015D
+-1.107925,53.310164,On or near Kilton Crescent,Bassetlaw 016G
+-1.288133,53.011723,On or near Wheeler Avenue,Broxtowe 003A
+-1.277427,52.928956,On or near William Road,Broxtowe 008D
+-1.218304,52.937463,On or near Boundary Crescent,Broxtowe 009B
+-1.216307,52.926914,On or near Commercial Avenue,Broxtowe 011D
+-1.146596,53.049554,On or near Sherwood Lodge Drive,Gedling 001A
+-1.118347,52.997389,On or near Gedling Road,Gedling 009B
+-1.10079,52.960275,On or near Oakdale Road,Gedling 014C
+-1.1929,53.165353,On or near Market Place,Mansfield 005C
+-1.205392,53.142568,On or near Herbert Street,Mansfield 008C
+-1.195606,53.145424,On or near Clerkson'S Alley,Mansfield 008F
+-1.197089,53.146099,On or near Clumber Street,Mansfield 008F
+-1.195606,53.145424,On or near Clerkson'S Alley,Mansfield 008F
+-1.192543,53.145341,On or near Rock Valley,Mansfield 009C
+-1.155294,53.136489,On or near Roston Close,Mansfield 012D
+-0.800266,53.077679,On or near Newstead Avenue,Newark and Sherwood 007C
+-0.811246,53.077951,On or near B6166,Newark and Sherwood 007F
+-0.802696,53.062206,On or near Lord Hawke Way,Newark and Sherwood 009D
+-0.792286,53.055592,On or near Lansbury Road,Newark and Sherwood 011G
+-1.178924,53.00398,On or near Top Valley Way,Nottingham 001C
+-1.192227,53.016198,On or near Longford Crescent,Nottingham 002C
+-1.189534,52.991252,On or near Highbury Avenue,Nottingham 004E
+-1.132225,52.980726,On or near Park Close,Nottingham 010A
+-1.174151,52.979973,On or near Fairfax Close,Nottingham 012C
+-1.226893,52.973136,On or near Strelley Road,Nottingham 014C
+-1.14623,52.965365,On or near Goldswong Terrace,Nottingham 015D
+-1.153047,52.972309,On or near New Street,Nottingham 015E
+-1.160129,52.97111,On or near 4Th Avenue,Nottingham 017D
+-1.17512,52.965875,On or near Hovenden Gardens,Nottingham 018A
+-1.1705,52.964548,On or near Court Street,Nottingham 018B
+-1.188616,52.967891,On or near Trafford Gardens,Nottingham 019B
+-1.208058,52.966503,On or near Hunston Close,Nottingham 020A
+-1.137096,52.962746,On or near Livingstone Road,Nottingham 021C
+-1.137096,52.962746,On or near Livingstone Road,Nottingham 021C
+-1.169095,52.960943,On or near Peveril Street,Nottingham 022B
+-1.161266,52.965791,On or near Sports/Recreation Area,Nottingham 022C
+-1.165338,52.961195,On or near Forest Road West,Nottingham 022C
+-1.153465,52.956257,On or near Nightclub,Nottingham 022D
+-1.153465,52.956257,On or near Nightclub,Nottingham 022D
+-1.150533,52.960776,On or near Nightclub,Nottingham 023D
+-1.150533,52.960776,On or near Nightclub,Nottingham 023D
+-1.145611,52.958241,On or near Supermarket,Nottingham 023E
+-1.148119,52.957453,On or near Shopping Area,Nottingham 023E
+-1.145725,52.955491,On or near Clare Street,Nottingham 023H
+-1.149219,52.955678,On or near Trinity Square,Nottingham 023H
+-1.149219,52.955678,On or near Trinity Square,Nottingham 023H
+-1.150671,52.95603,On or near Nightclub,Nottingham 023H
+-1.140243,52.960962,On or near Thomas Close,Nottingham 023I
+-1.135599,52.959382,On or near Dennett Close,Nottingham 023I
+-1.119435,52.9585,On or near Shelford Rise,Nottingham 024D
+-1.179508,52.957419,On or near Denman Street West,Nottingham 026G
+-1.156117,52.953857,On or near Theatre/Concert Hall,Nottingham 028F
+-1.185957,52.943799,On or near Hospital,Nottingham 031I
+-1.171505,52.912098,On or near Supermarket,Nottingham 035E
+-1.151091,53.007579,On or near Howells Close,Nottingham 038E
+-1.154231,52.954374,On or near Theme/Adventure Park,Nottingham 039B
+-1.152649,52.953842,On or near Angel Row,Nottingham 039B
+-1.147141,52.949344,On or near Parking Area,Nottingham 039B
+-1.146626,52.954311,On or near Thurland Street,Nottingham 039G
+-1.146489,52.952953,On or near Bottle Lane,Nottingham 039G
+-1.146626,52.954311,On or near Thurland Street,Nottingham 039G
+-1.149438,52.953648,On or near Long Row,Nottingham 039G
+-1.149253,52.953179,On or near South Parade,Nottingham 039G
+-1.146489,52.952953,On or near Bottle Lane,Nottingham 039G
+-1.146626,52.954311,On or near Thurland Street,Nottingham 039G
+-1.167151,52.93404,On or near Shopping Area,Nottingham 040A
+-1.198005,52.936052,On or near Jubilee Avenue,Nottingham 041F
+-0.978336,52.983908,On or near Trent Lane,Rushcliffe 001B
+-0.953478,52.951716,On or near Union Street,Rushcliffe 002B
+-1.034686,52.90296,On or near Saxon Way,Rushcliffe 009D
+-1.204631,52.865915,On or near The Square,Rushcliffe 014A
+-1.134612,52.859636,On or near Thomas Parkyn Close,Rushcliffe 015D
