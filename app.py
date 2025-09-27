@@ -23,7 +23,7 @@ layer = pdk.Layer(
 view_state = pdk.ViewState(
     latitude=data["lat"].mean(),
     longitude=data["lon"].mean(),
-    zoom=6,
+    zoom=10,
     pitch=0
 )
 
@@ -39,3 +39,4 @@ st.pydeck_chart(pdk.Deck(
     initial_view_state=view_state,
     tooltip=tooltip
 ))
+
